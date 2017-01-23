@@ -1,0 +1,41 @@
+body{
+    background-image: url("seigaiha.png");
+    text-align: center;
+}
+
+ul{
+    color: lightslategray;
+
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+fieldset{
+    color: saddlebrown;
+
+}
+
+tr{
+    color: lightslategray;
+}
+
+legend{
+    font-size: 30px;
+    color: cadetblue;
+    font-family: "Passion One";
+}
+
+h2{
+    font-family: "Arial";
+    border: solid 8px black;
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 4px 4px lightslategray;
+}
+
+
+
